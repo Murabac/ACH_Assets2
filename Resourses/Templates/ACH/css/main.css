@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,500,700,700i&display=swap');
+
+*{
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h1.LogoP{
+  position: relative;
+  color: #fff;;
+  font-size: 40px;
+  text-align:center;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+h1 span{
+  color: green;
+}
